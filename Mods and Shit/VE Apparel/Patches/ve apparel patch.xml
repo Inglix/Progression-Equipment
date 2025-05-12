@@ -11,7 +11,7 @@
             <thingDef>VAE_Footwear_Boots</thingDef>
             <techLevelNoResearch>Neolithic</techLevelNoResearch>
             <techLevelResearched>Neolithic</techLevelResearched>
-        </li>
+        <li>
     </itemLevelRules>
 </li>
 
